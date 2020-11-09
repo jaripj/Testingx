@@ -1,4 +1,6 @@
 
+Tänne lisätään jälkikäteen tekstiä
 Ensimmäinen lisäys
-Lisätään tekstiä Githubista haun jälkeen
-Githubiin on viety välillä jaj-haara. Lisätään tämä teksti sen jälkeen.
+Lisätään tekstiä Githubista haun x jälkeen
+Gitbiin ei ole sekavaa on vietytests välillä jaj-haara. Lisätään tämä teksti sen jälkeen.
+muokataan yllä olevaa tekstiä niin, että pitäisi valittaa
